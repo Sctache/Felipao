@@ -1,6 +1,8 @@
 //Criar uma variável para o nome do herói.
+let nome = "Sookie"
 
 //Criar uma variável para o XP (números inteiros).
+let nivel = int(10)
 
 //Se 'XP <= 1000' == Ferro
 //Se '1001 <= XP <= 2000' == Bronze
@@ -12,3 +14,4 @@
 //Se 'XP > 10000' == Radiante
 
 //Saída: "O Herói de nome **{nome}** está no nível de **{nivel}**."
+console.log ("O Herói de nome " + nome + "está no nível de " + nivel + ".")
