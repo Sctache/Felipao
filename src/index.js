@@ -2,10 +2,13 @@
 
 //Criar uma variável para o XP (números inteiros).
 
-//Se 'XP <= 1000' ==
-//Se '1001 <= XP <= 2000' ==
-//Se '2001 <= XP <= 5000' ==
-//Se '5001 <= XP <= 7000' ==
-//Se '7001 <= XP <= 8000' ==
-//Se '8001 <= XP <= 9000' ==
-//Se '9001 <= XP <= 10000' ==
+//Se 'XP <= 1000' == Ferro
+//Se '1001 <= XP <= 2000' == Bronze
+//Se '2001 <= XP <= 5000' == Prata
+//Se '5001 <= XP <= 7000' == Ouro
+//Se '7001 <= XP <= 8000' == Platina
+//Se '8001 <= XP <= 9000' == Ascendente
+//Se '9001 <= XP <= 10000' == Imortal
+//Se 'XP > 10000' == Radiante
+
+//Saída: "O Herói de nome **{nome}** está no nível de **{nivel}**."
