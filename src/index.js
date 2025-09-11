@@ -2,7 +2,7 @@
 let nome = "Sookie"
 
 //Criar uma variável para o XP (números inteiros).
-let xp = int(1000)
+let xp = 1000
 
 
 //Se 'XP <= 1000' == Ferro
